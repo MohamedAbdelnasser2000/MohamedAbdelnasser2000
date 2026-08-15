@@ -24,6 +24,7 @@ focus:
   - Full Stack Web Applications and RESTful APIs
   - Database Design and Data Access
   - Clean Code and Maintainable Architecture
+  - .NET Desktop and Computer Vision Applications
 
 currently_open_to:
   Full Stack .NET Developer and Software Engineer opportunities</code></pre>
@@ -31,7 +32,7 @@ currently_open_to:
 
 <br clear="both" />
 
-<p align="center">I build practical web applications and business systems from requirements to delivery. My work combines C#, ASP.NET Core, Entity Framework Core, SQL Server, frontend fundamentals, API engineering, testing, documentation, and disciplined Git workflows.</p>
+<p align="center">I build practical web applications, business systems, and .NET desktop applications from requirements to delivery. My work combines C#, ASP.NET Core, Entity Framework Core, SQL Server, frontend fundamentals, API engineering, Windows Forms, computer vision, testing, documentation, and disciplined Git workflows.</p>
 
 <hr />
 
@@ -63,6 +64,7 @@ currently_open_to:
 | Minimal APIs | DOM / Fetch / AJAX | Indexes / transactions | IIS hosting concepts |
 | Identity / JWT | JSON / form validation | Views / procedures | Visual Studio / VS Code |
 | REST / Swagger | Accessibility basics | Relational design | Postman / SSMS |
+| Windows Forms / .NET Desktop |  | EF Core SQL Server | Emgu CV / ONNX Runtime |
 
 <hr />
 
@@ -75,6 +77,10 @@ currently_open_to:
 | API Engineering | REST, CRUD, HTTP, DTOs, mapping, status codes, error handling, pagination, filtering, sorting, versioning concepts, Swagger/OpenAPI, Postman |
 | Security | Identity, roles, claims, JWT, authorization, password security, HTTPS, CORS, CSRF awareness, input validation, secure secrets, OWASP awareness, SQL injection prevention |
 | Data Access | EF Core, DbContext, migrations, code-first, database-first concepts, repositories, unit of work, transactions, change tracking, eager/lazy/explicit loading, Dapper and ADO.NET fundamentals |
+| Databases | SQL Server, T-SQL, relational design, normalization, indexes, views, stored procedures, functions, transactions, query optimization, data integrity |
+| Desktop Development | .NET 8 Windows Forms, WinExe applications, Windows-specific targeting, runtime configuration, appsettings.json, resources, forms, controls, services, local application workflows |
+| Computer Vision & AI Inference | Emgu CV, OpenCV-based workflows, Microsoft.ML.OnnxRuntime, ONNX models, MoveNet pose estimation, body keypoints, confidence scores, skeleton overlays, face detection model integration, face recognition model integration |
+| Camera & Media Processing | AForge, AForge.Video, AForge.Video.DirectShow, webcam capture, real-time video processing, frame-based analysis, live feedback, exercise repetition counting |
 | Software Engineering | Requirements analysis, system design, SOLID, DRY, KISS, YAGNI, design patterns, refactoring, clean code, code review, documentation, debugging, performance analysis, maintainability, scalability |
 | Testing | Unit testing concepts, integration testing concepts, API testing, mocking concepts, regression testing, validation testing, Postman collections, defect investigation, testable design |
 | Delivery | Git branching, pull requests, merge conflict resolution, code review, CI/CD concepts, build pipelines, environment configuration, deployment readiness, Docker and IIS fundamentals |
@@ -85,6 +91,7 @@ currently_open_to:
 
 | Project | What it demonstrates |
 | --- | --- |
+| [Sport-Test](https://github.com/MohamedAbdelnasser2000/Sport-Test) | .NET 8 Windows Forms desktop application for sports exercise testing with webcam capture, Emgu CV, ONNX Runtime, MoveNet pose estimation, skeleton overlay, live confidence feedback, and repetition counting for sit-ups, push-ups, and pull-ups. |
 | [IMS](https://github.com/MohamedAbdelnasser2000/IMS) | ASP.NET Core MVC, Identity, EF Core, layered services, reporting, and tests. |
 | [ECommerce](https://github.com/MohamedAbdelnasser2000/ECommerce) | .NET Razor Pages, SQL Server persistence, authentication, validation, and e-commerce workflows. |
 | [Task1](https://github.com/MohamedAbdelnasser2000/Task1) | ASP.NET Core Web API, EF Core, SQL Server, and Swagger/OpenAPI. |
@@ -112,8 +119,11 @@ currently_open_to:
 <p align="center">
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/Emgu%20CV-1E6FB0?style=flat-square" alt="Emgu CV" />
+  <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square" alt="ONNX Runtime" />
+  <img src="https://img.shields.io/badge/MoveNet-Pose%20Estimation-7C3AED?style=flat-square" alt="MoveNet" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-.NET%20Desktop-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Windows Forms" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger OpenAPI" />
 </p>
 
 <hr />
