@@ -35,9 +35,7 @@ I build practical web applications and business systems from requirements to del
 
 <h2 align="center">🧩 Problem Solving & Software Engineering</h2>
 
-<p align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663031612645/IGWCrTTjlGnPgqPX.png" alt="Problem solving and software engineering illustration" width="65%" />
-</p>
+
 
 | 🧠 Problem Solving | 🐞 Debugging & Quality | 🏗️ Architecture | 🔄 Adaptability |
 | --- | --- | --- | --- |
