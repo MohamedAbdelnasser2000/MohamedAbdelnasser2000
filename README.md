@@ -14,7 +14,7 @@
 
 <p align="center">
   <img align="left" width="48%" src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663031612645/FnbLvmNPIjCXveKB.png" alt="Full Stack .NET development illustration" />
-  <pre align="right"><code>name: Mohamed Abdelnasser
+  <pre ><code>name: Mohamed Abdelnasser
 role: Full Stack .NET Developer | Software Engineer
 experience: 3+ years
 location: Giza, Egypt
