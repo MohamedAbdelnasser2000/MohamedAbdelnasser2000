@@ -62,27 +62,6 @@ I build practical web applications, business systems, and .NET desktop applicati
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pixel-line-neon.gif" width="100%">
 </div>
 
-<h2 align="center">💼 Experience</h2>
-
-<table align="center" width="90%">
-<tr>
-<td width="15%" align="center" valign="top">
-
-**Software Engineer**
-
-</td>
-<td width="70%" valign="top">
-
-Working as a **Full Stack .NET Developer**, building and maintaining business web applications using ASP.NET Core MVC, Entity Framework Core, and SQL Server — covering backend architecture, API development, database design, and end-to-end feature delivery.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pixel-line-neon.gif" width="100%">
-</div>
-
 <h2 align="center">🧩 Problem Solving & Software Engineering</h2>
 
 <p align="center">
