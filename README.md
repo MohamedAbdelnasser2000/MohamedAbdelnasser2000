@@ -13,29 +13,33 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663031612645/FnbLvmNPIjCXveKB.png" alt="Full Stack .NET development illustration" width="70%" />
-</p>
-
-```yaml
-name: Mohamed Abdelnasser
+  <img align="left" width="48%" src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663031612645/FnbLvmNPIjCXveKB.png" alt="Full Stack .NET development illustration" />
+  <pre align="right"><code>name: Mohamed Abdelnasser
 role: Full Stack .NET Developer | Software Engineer
 experience: 3+ years
 location: Giza, Egypt
+
 focus:
   - Backend Development with ASP.NET Core
   - Full Stack Web Applications and RESTful APIs
   - Database Design and Data Access
-  - Clean Code, Maintainable Architecture, and Software Quality
-currently_open_to: Full Stack .NET Developer and Software Engineer opportunities
-```
+  - Clean Code and Maintainable Architecture
 
-I build practical web applications and business systems from requirements to delivery. My work combines C#, ASP.NET Core, Entity Framework Core, SQL Server, frontend fundamentals, API engineering, testing, documentation, and disciplined Git workflows.
+currently_open_to:
+  Full Stack .NET Developer and Software Engineer opportunities</code></pre>
+</p>
+
+<br clear="both" />
+
+<p align="center">I build practical web applications and business systems from requirements to delivery. My work combines C#, ASP.NET Core, Entity Framework Core, SQL Server, frontend fundamentals, API engineering, testing, documentation, and disciplined Git workflows.</p>
 
 <hr />
 
 <h2 align="center">🧩 Problem Solving & Software Engineering</h2>
 
-
+<p align="center">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663031612645/IGWCrTTjlGnPgqPX.png" alt="Problem solving and software engineering illustration" width="65%" />
+</p>
 
 | 🧠 Problem Solving | 🐞 Debugging & Quality | 🏗️ Architecture | 🔄 Adaptability |
 | --- | --- | --- | --- |
